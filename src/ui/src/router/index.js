@@ -12,10 +12,14 @@ const routes = [
 	},
 	{
 		component: () =>
-			import('../views/About'),
-		name: 'About',
-		path: '/about'
+			import('../views/Panel'),
+		name: 'Panel',
+		path: '/panel'
 
+	},
+	{
+		path: '*',
+		redirect: '/'
 	}
 ];
 
