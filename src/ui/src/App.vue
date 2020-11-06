@@ -10,8 +10,8 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn href="https://github.com/jef/nvidia-snatcher" target="_blank" text>
-        <span class="mr-2">navidia-snatcher</span>
+      <v-btn href="https://github.com/jef/streetmerchant" target="_blank" text>
+        <span class="mr-2">Streetmerchant</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
